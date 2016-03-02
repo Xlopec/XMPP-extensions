@@ -15,7 +15,7 @@ import xmpp.extensions.com.ua.max.oliynick.iq.ChatListRetrieveResultIQ.Direction
  * Custom provider that parsers XEP-0136 result history into
  * {@link ChatListRetrieveResultIQ} packets
  * </p>
- * @author ������
+ * @author Max Oliynick
  * */
 public final class ChatListRetrieveIQProvider extends IQProvider<ChatListRetrieveResultIQ> {
 	
